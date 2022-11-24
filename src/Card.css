@@ -1,0 +1,29 @@
+/* styling for front and back of card */
+.front{
+-webkit-transform: rotateY(0deg);
+  -moz-transform: rotateY(0deg);
+  -ms-transform: rotateY(0deg);
+  -o-transform: rotateY(0deg);
+  transform: rotateY(0deg);
+  background-color: #e12d00;
+  border-radius: 5%;
+  background-image: url(../images/card.svg);
+  background-position:50% 50%;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+.back{
+-webkit-transform: rotateY(-180deg);
+  -moz-transform: rotateY(-180deg);
+  -ms-transform: rotateY(-180deg);
+  -o-transform: rotateY(-180deg);
+  transform: rotateY(-180deg);
+  background-color: #fff;
+  border-radius: 5%;
+  background-position:50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* 12 cards in total */
+
