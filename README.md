@@ -45,5 +45,11 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+<<<<<<< HEAD
 #hello
 #test
+=======
+## hello world!
+
+## more additions.
+>>>>>>> 69d8524973b468d31f0d740a109ab1724266fe09
